@@ -1,0 +1,15 @@
+D:\Code and shit\Vibing\PohonJingan\Tugas1\bin\Debug\net8.0\Tugas1.exe
+D:\Code and shit\Vibing\PohonJingan\Tugas1\bin\Debug\net8.0\Tugas1.deps.json
+D:\Code and shit\Vibing\PohonJingan\Tugas1\bin\Debug\net8.0\Tugas1.runtimeconfig.json
+D:\Code and shit\Vibing\PohonJingan\Tugas1\bin\Debug\net8.0\Tugas1.dll
+D:\Code and shit\Vibing\PohonJingan\Tugas1\bin\Debug\net8.0\Tugas1.pdb
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.AssemblyInfoInputs.cache
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.AssemblyInfo.cs
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.csproj.CoreCompileInputs.cache
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.sourcelink.json
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.dll
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\refint\Tugas1.dll
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.pdb
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\Tugas1.genruntimeconfig.cache
+D:\Code and shit\Vibing\PohonJingan\Tugas1\obj\Debug\net8.0\ref\Tugas1.dll
